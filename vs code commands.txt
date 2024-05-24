@@ -1,0 +1,26 @@
+to create virtual environment in python [vs code]
+
+py -3 -m venv env
+Set-ExecutionPolicy Unrestricted -Scope Process
+env\scripts\activate
+
+
+to install flask in python[vs code]
+
+Python -m pip install flask
+
+
+in case if pip is not updated then to update use 
+
+Python -m pip install -U pip
+
+
+to get the link of web page 
+python -m flask run
+
+
+
+
+
+
+
